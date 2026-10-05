@@ -1,0 +1,1 @@
+int convert_custombase_todec(int baseDepart, int nbChiffres);
